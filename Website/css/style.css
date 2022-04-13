@@ -1,0 +1,555 @@
+h1{
+
+    color: #F8E69E;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 80px;
+ 
+  
+   
+}
+
+.rocket{
+
+    width: 40%;
+
+ 
+    
+}
+
+
+.navbar{
+
+    background-color: #D7F1F9;
+    text-decoration: none;
+    outline: none;
+ 
+    
+}
+
+
+header{
+    
+    position: absolute;
+    top: 0%;
+    width: 100%;
+}
+
+
+
+
+.button{
+
+    margin: auto;
+    background: #8AC1DD;
+    text-align: center;
+    color: #0767A3;
+    font-weight: bolder;
+    margin: auto;
+
+
+}
+
+
+#nameForm{
+
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 35px;
+    margin: auto;
+    width: 22%;
+    height: 25%;
+
+}
+
+
+.fyi{
+
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+
+.title{
+
+    color: #1F51FF;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: 'Dongle', sans-serif;
+}
+
+
+
+header{
+
+  background-color: #D7F1F9;
+
+
+}
+
+.link1, .link2, .link3{
+
+    font-weight: bold;
+    font-size: 22px;
+
+
+}
+
+.header1 {
+
+    color: #E79FBC;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+    
+}
+
+
+.header3 {
+
+  color: #E79FBC;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  
+
+  
+}
+
+.header2{
+
+    color: #4abfda;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+
+
+}
+
+.header4{
+
+  color: #4abfda;
+  font-weight: bold;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
+
+
+}
+
+.share{
+
+    margin-left: 10px;
+}
+
+
+
+.rectangle {
+
+   
+    background-color: #D7F1F9; 
+    border-radius: 25px;
+    margin-left: 20px;
+    border: 2px solid #1F51FF;
+    width: auto;
+    text-decoration: none;
+    outline: #1F51FF;
+    margin-right: 20px;
+    
+
+  }
+
+  .rectangle:hover{
+
+    background-color: #D7F1F9;
+    color: #1F51FF;
+    outline: #1F51FF;
+
+  }
+
+
+  .rectangle:focus{
+
+    outline: #1F51FF;
+    box-shadow: none;
+    background-color: #D7F1F9;
+    color: #1F51FF;
+    
+
+
+
+  }
+
+
+  .rectangleName {
+
+   
+    background-color: #D7F1F9; 
+    border-radius: 25px;
+    margin-left: 20px;
+    border: 2px solid #1F51FF;
+    width: auto;
+    text-decoration: none;
+    outline: #1F51FF;
+    margin-right: 20px;
+    font-weight: bold;
+    color: #1F51FF;
+    
+
+  }
+
+  .rectangleName:hover{
+
+    background-color: #D7F1F9;
+    color: #1F51FF;
+    outline: #1F51FF;
+
+  }
+
+
+  .rectangleName:focus{
+
+    outline: #1F51FF;
+    box-shadow: none;
+    background-color: #D7F1F9;
+    color: #1F51FF;
+    
+
+
+
+  }
+
+  #display{
+
+    color: #1F51FF;
+    text-align: center;
+    font-weight: bold;
+
+
+  }
+
+
+  .card1{
+
+   
+    background: linear-gradient(to right, rgba(53, 204, 53, 0.74), green);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+
+  .card2{
+
+
+    background: linear-gradient(to right, rgba(255, 255, 78, 0.76), rgba(255, 255, 0, 0.829));
+    border-radius: 25px;
+    filter:grayscale(60%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+  }
+
+  .card3{
+
+    background: linear-gradient(to right, rgb(245, 190, 87), orange);
+    border-radius: 25px;
+    filter:grayscale(60%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+    
+  }
+
+  .card4{
+
+
+    background: linear-gradient(to right, rgba(255, 255, 78, 0.76), rgba(255, 255, 0, 0.829));
+    border-radius: 25px;
+    filter:grayscale(0%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+  }
+
+
+  .img1{
+
+    width: 51%;
+    height: 61%;
+    margin-left: 170px;
+    margin-top: 100px;
+    
+    
+
+  }
+
+
+  .img3{
+
+    width: 50%;
+    height: 60%;
+    margin-left: 185px;
+    margin-top: 100px;
+
+  }
+
+  
+  .img2{
+
+    width: 50%;
+    height: 60%;
+    margin-left: 185px;
+    margin-top: 100px;
+
+  }
+
+
+  .playButton{
+
+    width: 10%;
+    text-align: center;
+    margin-top: 10px;
+
+
+  }
+
+  .lockButton{
+
+    width: 10%;
+    text-align: center;
+    margin-top: 10px;
+   
+  
+
+
+  }
+
+  .lockButton2{
+
+    width: 10%;
+    text-align: center;
+    margin-top: 10px;
+
+  }
+
+  
+.text1{
+
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 30px;
+ 
+    
+}
+
+.text2{
+
+    font-weight: bold;
+    font-size: 35px;
+ 
+
+}
+
+
+.text3{
+
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 30px;
+  color: black;
+
+  
+}
+
+.text4{
+
+  font-weight: bold;
+  font-size: 35px;
+  color: black;
+
+
+}
+
+.text5{
+
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 30px;
+  color: black;
+
+  
+}
+
+.text6{
+
+  font-weight: bold;
+  font-size: 35px;
+  color: black;
+
+
+}
+
+
+.lock1{
+
+  color: lightslategray;
+  text-align: center;
+
+}
+
+.lock2{
+
+  color: lightslategray;
+  text-align: center;
+
+}
+
+.section3Img1{
+
+  width: 65%;
+  margin-top: 150px;
+
+  
+}
+
+
+.cards{
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: #8AC1DD;
+  border-radius: 25px;
+  margin-top: 96px;
+  height: 575px;
+
+  
+
+}
+
+
+.levels{
+
+  margin-top: 50px;
+
+}
+
+
+#quiz-buttons a {
+
+  text-decoration: none;
+  font-weight: bolder;
+  text-align: center;
+
+
+
+}
+
+.answers a {
+
+  text-decoration: none;
+  display: block;
+  padding: 0.5em 1em;
+  margin-bottom: 0.5em;
+  background: #fff;
+  border-radius: 10px;
+  font-weight: bold;
+  
+
+}
+
+
+.question {
+
+  font-size: 20px;
+
+}
+
+#quiz-counter{
+
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+.answers {
+
+  list-style: none;
+  padding: 0;
+  text-align: center;
+
+  
+}
+
+
+#quiz-results {
+
+  font-size: 1.45em;
+  font-weight: bold;
+  text-align: center;
+  
+
+}
+
+
+#quiz-response {
+
+  font-weight: bold;
+  text-align: center;
+  
+
+}
+
+.menu{
+
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #8AC1DD;
+  display: block;
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #8AC1DD;
+
+
+  }
+
+ 
+
+
+footer{
+
+  text-align: center;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  font-weight: bold;
+  background-color: #D7F1F9;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
